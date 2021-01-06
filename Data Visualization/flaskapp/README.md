@@ -1,6 +1,7 @@
 A flask app Data Visualization using Chart.js
 
-To run:
+To run flask app:
+
 • Go to project directory
 
 • FLASK_APP=app.py FLASK_ENV=development flask run
