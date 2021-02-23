@@ -1,0 +1,25 @@
+Average # of tweets @ 0 hrs:	0.00997122589
+Average # of tweets @ 1 hrs:	0.01954360274
+Average # of tweets @ 2 hrs:	0.02814734622
+Average # of tweets @ 3 hrs:	0.04814677644
+Average # of tweets @ 4 hrs:	0.12535255405
+Average # of tweets @ 5 hrs:	0.08173556308
+Average # of tweets @ 6 hrs:	0.05199282071
+Average # of tweets @ 7 hrs:	0.04185065952
+Average # of tweets @ 8 hrs:	0.03461439845
+Average # of tweets @ 9 hrs:	0.03242072875
+Average # of tweets @ 10 hrs:	0.06831714196
+Average # of tweets @ 11 hrs:	0.03957152217
+Average # of tweets @ 12 hrs:	0.04660835873
+Average # of tweets @ 13 hrs:	0.06361642118
+Average # of tweets @ 14 hrs:	0.06843109882
+Average # of tweets @ 15 hrs:	0.09805988433
+Average # of tweets @ 16 hrs:	0.03316144839
+Average # of tweets @ 17 hrs:	0.02957180707
+Average # of tweets @ 18 hrs:	0.02230705677
+Average # of tweets @ 19 hrs:	0.01538417708
+Average # of tweets @ 20 hrs:	0.01002820432
+Average # of tweets @ 21 hrs:	0.01316201817
+Average # of tweets @ 22 hrs:	0.00905957095
+Average # of tweets @ 23 hrs:	0.00894561408
+Hour of the day that bts tweets the most: 4

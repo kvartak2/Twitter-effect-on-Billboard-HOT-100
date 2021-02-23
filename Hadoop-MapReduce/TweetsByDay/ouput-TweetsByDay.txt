@@ -1,0 +1,9 @@
+Average Tweets on Friday :	0.05632318167
+Average Tweets on Monday :	0.31779721375
+Average Tweets on Saturday :	0.20398279251
+Average Tweets on Sunday :	0.08230534742
+Average Tweets on Thursday :	0.02481410786
+Average Tweets on Tuesday :	0.17161904219
+Average Tweets on Wednesday :	0.14315831457
+
+Day of the week for bts tweets the most :  Monday	
