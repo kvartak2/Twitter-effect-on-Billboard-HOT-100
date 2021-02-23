@@ -8,4 +8,4 @@ This project is divided into 3 parts:
 
 • Project 3 : Data Visualization
 
-• Hadoop - MapReduce : to get 'tweets by days, hour’
+• Hadoop - MapReduce
