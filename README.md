@@ -7,3 +7,5 @@ This project is divided into 3 parts:
 • Project 2 : Implementation
 
 • Project 3 : Data Visualization
+
+• Hadoop - MapReduce : to get 'tweets by days, hour’
